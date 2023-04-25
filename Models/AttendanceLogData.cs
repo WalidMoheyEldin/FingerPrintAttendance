@@ -24,3 +24,5 @@ namespace FingerPrintAttendance.Models
         public virtual FPDevice FingerprintDevice { get; set; }
     }
 }
+
+// hello ramy
